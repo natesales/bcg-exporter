@@ -20,7 +20,7 @@ var release = "dev" // set by build process
 const updateDelay = 10 * time.Second
 
 var (
-	listenAddr = flag.String("web.listen-addr", ":9590", "Listening Address")
+	listenAddr = flag.String("web.listen-addr", ":9785", "Listening Address")
 )
 
 var (
