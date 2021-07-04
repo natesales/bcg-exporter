@@ -1,4 +1,5 @@
-# bcg-exporter
+# bcg-exporter is now archived in favor of the built-in prometheus metrics endpoint in [Pathvector](https://pathvector.io) (new version of bcg)
+
 Export [bcg](https://github.com/natesales/bcg) statistics to [Prometheus](https://prometheus.io)
 
 ### Installation
